@@ -1,6 +1,6 @@
 # FLAPPYBIRD-NEUROEVOLUTION
 
-The flappy Bird file uses the neural network and the matrix manipulation files to learn to go thorugh the maze of pipes and jump at the right times. Combining genetic algorithms and neural networks to create neuroevolution!
+These are alos part of some of the coding train challenges. I changed the implementation to python and my favorite game engine PYXEL. The flappy Bird file uses the neural network and the matrix manipulation files to learn to go thorugh the maze of pipes and jump at the right times. Combining genetic algorithms and neural networks to create neuroevolution!
 
 ## Functionalities
 
